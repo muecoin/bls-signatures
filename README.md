@@ -1,5 +1,6 @@
 # BLS Signatures implementation
-![Build](https://github.com/muecoin/bls-signatures/workflows/Build/badge.svg)
+
+[![Build and Test C++, Javascript, and Python](https://github.com/muecoin/bls-signatures/actions/workflows/build-test.yaml/badge.svg)](https://github.com/muecoin/bls-signatures/actions/workflows/build-test.yaml)
 ![PyPI](https://img.shields.io/pypi/v/blspy?logo=pypi)
 ![PyPI - Format](https://img.shields.io/pypi/format/blspy?logo=pypi)
 ![GitHub](https://img.shields.io/github/license/Chia-Network/bls-signatures?logo=Github)
